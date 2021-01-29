@@ -1,4 +1,4 @@
-Have Java 11 and Mavens installed.
+Have Java 11 and Maven installed.
 
 Run:</br>
 `mvn install`
